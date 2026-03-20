@@ -27,8 +27,9 @@ Launch the Jupyter interface:
 
 ```Bash
 uv run jupyter notebook
-Open cancer_analysis.ipynb and run all cells to:
 ```
+
+
 Open ``cancer_analysis.ipynb`` and run all cells to:
 1. Filter 20,531 genes down to the most significant biomarkers.
 
